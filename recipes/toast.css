@@ -1,0 +1,51 @@
+img {
+    width: 500px;
+    height:auto
+}
+
+h1,
+h2,
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: rgb(255, 115, 0);
+    color: azure;
+}
+
+* {
+    text-align: center;
+}
+
+strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(165, 42, 42, 0.76);
+    font-size: x-large;
+}
+
+p,
+li {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#end {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(165, 42, 42, 0.76);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(240, 77, 12, 0.884);
+}
+
+.item {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.stepslist {
+    font-size: larger;
+}
