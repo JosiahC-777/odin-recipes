@@ -1,0 +1,42 @@
+img {
+    width: 500px;
+    height:auto
+}
+
+h1,
+h2,
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: rgb(0,86,95);
+    color: azure;
+}
+
+* {
+    text-align: center;
+}
+
+strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(118,149,151);
+    font-size: x-large;
+}
+
+p,
+li {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#end {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0,86,95);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#home {
+    color: rgba(165, 42, 42, 0.76) ;
+    font-weight: bold;
+}
