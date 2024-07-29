@@ -1,0 +1,52 @@
+img {
+    width: 500px;
+    height:auto
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: rgb(190,34,39);
+    color: azure;
+}
+
+* {
+    text-align: center;
+}
+
+strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(221,178,99);
+    font-size: x-large;
+}
+
+p,
+li {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.item {
+    font-weight: bolder;
+}
+
+#duh {
+    font-size: small;
+    font-weight: lighter;
+}
+
+#end {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(190,34,39);
+    font-size: large;
+    font-weight: bold;
+}
+
+#Congrats {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(190,34,39);
+    font-size: x-large;
+    font-weight: bolder;
+}
